@@ -18,6 +18,7 @@ I build systems that connect **artificial intelligence with hardware**: computer
 | [**SAFETY CAM**](https://github.com/Joseph-Tech2004/safety-cam) | AI system that checks PPE compliance on live CCTV cameras and sends instant Telegram alerts. Graduation project, NURAI 2026 finalist. | Python · YOLOv8 · OpenCV · ONNX Runtime |
 | [**Motor Health Monitoring (IoT + LoRa)**](https://github.com/Joseph-Tech2004/motor-health-monitoring-lora) | Wireless three-phase motor monitoring over LoRa, field-tested up to 4.5 km. Silver Medal, BMIE 2026. | ESP32 · LoRa · PZEM-004T |
 | [**Smart Door Lock**](https://github.com/Joseph-Tech2004/smart-door-lock-esp32) | RFID + Telegram controlled lock with live notifications. | ESP32 · RFID · Telegram Bot API |
+| [**ELV System Design — 5-Floor Building**](https://github.com/Joseph-Tech2004/elv-building-design) | CCTV, IP telephony, cabling and redundant N+1 UPS power system, drawn in AutoCAD with full bill of materials. Aswar internship (90/100). | AutoCAD · ELV · UPS / N+1 |
 | [**Robotic Hand**](https://github.com/Joseph-Tech2004/robotic-hand-mirroring) | Robotic hand mirroring human finger movement from a camera (prototype). | MediaPipe · ESP32-S3 · PCA9685 |
 | [**Al Nuiamy Perfumes**](https://github.com/Joseph-Tech2004/alnuiamy) | E-commerce store with Google Sheets backend and email order alerts. | HTML/CSS/JS · Apps Script |
 
@@ -26,7 +27,7 @@ I build systems that connect **artificial intelligence with hardware**: computer
 **Embedded & IoT:** ESP32, Arduino, LoRa, RFID, sensors, PCA9685
 **AI & Computer Vision:** Python, YOLOv8, OpenCV, MediaPipe, Roboflow, ONNX
 **Software & Web:** Tkinter, Flask, Telegram Bot API, Laravel, WordPress, HTML/CSS/JS
-**Networks:** Networking, ELV systems, CCTV, fibre optics
+**Networks & ELV:** Networking, ELV system design, CCTV, IP telephony, UPS/power systems, fibre optics, AutoCAD
 
 ## 📫 Contact
 
